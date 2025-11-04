@@ -5,7 +5,7 @@
 Me chamo Arthur Alentejo, tenho 20 anos e resido no Rio de Janeiro. Concluí o ensino médio no colégio ZeroHum, e o Bootcamp em desenvolvimento web na MIbou Tecnologia e Informação LTDA. Atualmente, estou cursando bacherelado em ciência da computação na Anhanguera e em busca de uma primeira exxperiência profissional no mercadso de trabalho, onde seja possível aplicar meus conhecimentos e crescer profissionalmente em um ambiente dinâmico e colaborativo.
 
 <p align="left">
-    <a href="www.linkedin.com/in/arthur-alentejo-2bbb76277">
+    <a href="https://www.linkedin.com/in/arthur-alentejo-2bbb76277" target="_blank">
         <img 
             alt="Linkedin" 
             title="Acesse meu perfil no Linkedin" 
