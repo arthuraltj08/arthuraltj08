@@ -9,9 +9,10 @@ Me chamo Arthur Alentejo, tenho 20 anos e resido no Rio de Janeiro. Concluí o e
         <img 
             alt="Linkedin" 
             title="Acesse meu perfil no Linkedin" 
-            src="www.linkedin.com/in/arthur-alentejo-2bbb76277"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-plain.svg"
         />
     </a>
+</p>
   
 ---
 
