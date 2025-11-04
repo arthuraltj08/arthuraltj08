@@ -1,6 +1,6 @@
 #  Arthur Aletejo
 
-**'Desenvolvedor Full-Stack'**
+**Desenvolvedor Full-Stack**
 
 Me chamo Arthur Alentejo, tenho 20 anos e resido no Rio de Janeiro. Concluí o ensino médio no colégio ZeroHum, e o Bootcamp em desenvolvimento web na MIbou Tecnologia e Informação LTDA. Atualmente, estou cursando bacherelado em ciência da computação na Anhanguera e em busca de uma primeira exxperiência profissional no mercadso de trabalho, onde seja possível aplicar meus conhecimentos e crescer profissionalmente em um ambiente dinâmico e colaborativo.
 
